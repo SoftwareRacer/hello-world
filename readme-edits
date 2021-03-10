@@ -1,1 +1,26 @@
 
+Starting with 10th of March 2021 I aim doing the following projects until June:
+(If possible both as a console application as well as a form application)
+
+Project title:            targeted programming language:      development environment:    isDone:
+
+1. Tic Tac Toe            C# (.NET)                           Visual Studio 2019          true
+2. ToDo-List              Dart (Flutter)                      Android Studio              false
+3. Pong                   Java (Spring)                       Eclipse                     false
+4. various exercises      HTML5- and CSS3-book(React/Angular) Notepad++                   false
+5. various exercises      C#-Book                             Visual Studio 2019          false
+6. Snake                  C#                                  Visual Studio 2019          false
+7. Flappy Dino            Dart (Flutter)                      Android Studio              false
+8. Breakdown              Java                                Eclipse                     false
+9. Maze                   C#                                  Visual Studio 2019          false
+10. Tetris                C#                                  Visual Studio 2019          false
+11. Pocket Soccer         Dart (Flutter)                      Android Studio              false
+12. Own Website           JavaScript, HTML, CSS               Git                         false
+13. Data base for website SQL                                 mySQL                       false
+14. Space Invaders        Java                                Eclipse                     false
+15. Minesweeper           C#                                  Visual Studio 2019          false
+16. Pac-Man               C#                                  Visual Studio 2019          false
+17. various exercises to  
+algorithms and data structures    Java                        Eclipse                     false
+
+Each of them will be posted as soon as I am done with the project.
